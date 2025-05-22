@@ -24,7 +24,7 @@ This script allows users to:
 ``bash
 git clone (https://github.com/rprares/Python-Project-Submission---Rares/)
 
-#Install required packages:
+### Install required packages:
 
 pip install requests beautifulsoup4 pandas
 
@@ -40,7 +40,7 @@ Enter a movie genre when prompted (e.g., action, comedy, drama)
     Save them to 'scraped_movies.csv'
     Provide a random movie suggestion
 
-#Features
+### Features
 
   Web scraping from IMDb's top 1000 movies
   Genre-based movie filtering
@@ -54,7 +54,7 @@ The script creates a CSV file ('scraped_movies.csv') containing:
 Movie titles
 Associated genres
 
-#Notes
+### Notes
 
   This script uses IMDb's public web interface and should be used in accordance with IMDb's terms of service
   Internet connection required
