@@ -20,7 +20,7 @@ This script allows users to:
 
 ## Installation
 
-#Clone this repository:
+##Clone this repository:
 ``bash
 git clone (https://github.com/rprares/Python-Project-Submission---Rares/)
 
