@@ -24,7 +24,7 @@ This script allows users to:
 ``bash
 git clone (https://github.com/rprares/Python-Project-Submission---Rares/)
 
-    Install required packages:
+Install required packages:
 
 pip install requests beautifulsoup4 pandas
 
